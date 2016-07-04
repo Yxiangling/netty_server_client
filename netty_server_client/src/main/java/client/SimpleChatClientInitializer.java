@@ -12,8 +12,8 @@ import io.netty.handler.codec.string.StringEncoder;
 /**
  * 客户端 ChannelInitializer
  * 
- * @author waylau.com
- * @date 2015-2-26
+ * @author yxiangling
+ * @date 2016-7-4
  */
 public class SimpleChatClientInitializer extends ChannelInitializer<SocketChannel> {
  

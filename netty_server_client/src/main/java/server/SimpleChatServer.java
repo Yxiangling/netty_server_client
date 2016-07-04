@@ -10,8 +10,8 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 /**
  * 简单聊天服务器-服务端
  * 
- * @author waylau.com
- * @date 2015-2-16
+ * @author yxiangling
+ * @date 2016-7-4
  */
 public class SimpleChatServer {
 
